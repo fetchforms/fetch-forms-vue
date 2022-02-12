@@ -1,0 +1,24 @@
+{
+	"name": "fetch-forms-vue",
+	"version": "0.1.0",
+	"description": "The Vuejs client for Fetch Forms",
+	"main": "index.js",
+	"scripts": {
+		"test": "echo \"Error: no test specified\" && exit 1"
+	},
+	"repository": {
+		"type": "git",
+		"url": "git+https://github.com/fetchforms/fetch-forms-vue.git"
+	},
+	"keywords": [
+		"forms",
+		"form",
+		"form-builder"
+	],
+	"author": "",
+	"license": "MIT",
+	"bugs": {
+		"url": "https://github.com/fetchforms/fetch-forms-vue/issues"
+	},
+	"homepage": "https://github.com/fetchforms/fetch-forms-vue#readme"
+}
